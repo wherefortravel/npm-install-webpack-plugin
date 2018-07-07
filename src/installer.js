@@ -14,7 +14,7 @@ var defaultOptions = {
   quiet: false,
   npm: 'npm',
 };
-var erroneous = [];
+var erroneous = ['babelrc.js', './.babelrc.js'];
 
 function normalizeBabelPlugin(plugin, prefix) {
   // Babel plugins can be configured as [plugin, options]
