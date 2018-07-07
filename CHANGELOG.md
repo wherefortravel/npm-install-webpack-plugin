@@ -1,5 +1,8 @@
 # Change Log
 
+## [v4.1.0](https://github.com/wherefortravel/npm-install-webpack-plugin/tree/v4.1.0) (2018-07-07)
+[Full Changelog](https://github.com/wherefortravel/npm-install-webpack-plugin/compare/v4.0.11...v4.1.0)
+
 ## [v4.0.11](https://github.com/wherefortravel/npm-install-webpack-plugin/tree/v4.0.11) (2018-07-07)
 [Full Changelog](https://github.com/wherefortravel/npm-install-webpack-plugin/compare/v4.0.9...v4.0.11)
 
