@@ -3,7 +3,7 @@
   "devDependencies": {
     "reload-server-webpack-plugin": "1.0.1",
     "rimraf": "2.5.2",
-    "webpack": "1.12.15"
+    "webpack": "5.94.0"
   },
   "scripts": {
     "link": "(cd .. && npm link .) && npm link npm-install-webpack-plugin",
